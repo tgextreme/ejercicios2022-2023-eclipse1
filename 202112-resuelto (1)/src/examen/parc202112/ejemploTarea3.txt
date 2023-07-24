@@ -1,0 +1,15 @@
+Ejemplo de volcado a consola para 1000 euros (con los datos de prueba):
+Posible compra (sobran 2,10 euros): [1	Oculus Quest 2 128 Gb	349.0, 1	Oculus Quest 2 128 Gb	349.0, 8	Playstation VR	299.9]
+Posible compra (sobran 2,10 euros): [1	Oculus Quest 2 128 Gb	349.0, 8	Playstation VR	299.9, 1	Oculus Quest 2 128 Gb	349.0]
+Posible compra (sobran 2,00 euros): [2	Oculus Quest 2 256 Gb	449.0, 7	HP Reverb G2	549.0]
+Posible compra (sobran 2,00 euros): [7	HP Reverb G2	549.0, 2	Oculus Quest 2 256 Gb	449.0]
+Posible compra (sobran 2,10 euros): [8	Playstation VR	299.9, 1	Oculus Quest 2 128 Gb	349.0, 1	Oculus Quest 2 128 Gb	349.0]
+
+
+Ejemplo de volcado a consola para 600 euros (con los datos de prueba):
+Posible compra (sobran 0,20 euros): [8	Playstation VR	299.9, 8	Playstation VR	299.9]
+
+
+Ejemplo de volcado a consola para 500 euros (con los datos de prueba):
+
+(No hay posibles combinaciones)
